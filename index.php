@@ -28,6 +28,7 @@ require "cnx.php" ;
 		- Afficher numéro de licence<br/>
 		- Afficher numéro d'affiliation<br/>
 		- Préparation au examen<br/>
+		- Formation fédérale
 		
 		<form>
 			<h2>Se connecter</h2></h1>
