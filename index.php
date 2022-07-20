@@ -29,6 +29,7 @@ require "cnx.php" ;
 		- Afficher numéro d'affiliation<br/>
 		- Préparation au examen<br/>
 		- Formation fédérale
+		- E-commerce
 		
 		<form>
 			<h2>Se connecter</h2></h1>
